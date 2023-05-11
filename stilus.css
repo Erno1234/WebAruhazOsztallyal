@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: #9BAF8E;
+}
+main{
+    margin: auto;
+    width: 80%;
+}
+article{
+    padding: 10px;
+    background-color: bisque;
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+}

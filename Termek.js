@@ -5,7 +5,8 @@ class Termek{
         <div class="Termek">
             <h3>${this.adat.nev}</h3>
             <p>${this.adat.ar}</p>
-            <button></button>
+            <button>Vásárlás</button>
+            <button class='torles'>Törlés</button>
         </div>
     `)
         this.divElem = $(".Termek:last-child");
